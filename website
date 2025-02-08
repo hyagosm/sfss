@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hyago for SFSS</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Hyago for SFSS</h1>
+        <p>A Future for All Students. A Future We Shape Together.</p>
+    </header>
+    
+    <nav>
+        <ul>
+            <li><a href="#values">Values</a></li>
+            <li><a href="#past">Past & Resume</a></li>
+            <li><a href="#commitments">Commitments</a></li>
+            <li><a href="#future">Big Projects</a></li>
+        </ul>
+    </nav>
+    
+    <section id="values">
+        <h2>My Values</h2>
+        <p>Committed to Sustainability, Equity, and Student Empowerment.</p>
+    </section>
+    
+    <section id="past">
+        <h2>Past & Resume</h2>
+        <p>Experience in leadership, advocacy, and sustainability initiatives.</p>
+    </section>
+    
+    <section id="commitments">
+        <h2>Commitments</h2>
+        <p>Ongoing projects and efforts to improve student life.</p>
+    </section>
+    
+    <section id="future">
+        <h2>Big Projects & Ideas</h2>
+        <p>Innovative plans for a better future at SFSS.</p>
+    </section>
+    
+    <footer>
+        <p>© 2025 Hyago for SFSS | Designed for a better future</p>
+    </footer>
+</body>
+</html>
